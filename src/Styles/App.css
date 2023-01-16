@@ -1,0 +1,21 @@
+.header {
+ background-color: rgb(90, 131, 179);
+  height: 250px;
+  width: 100%;
+border-radius: 15px;
+  position: relative;
+ 
+
+ 
+}
+.greetings {
+   text-align: center;
+   position: relative;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+.greetings h1 {
+  color: rgb(238, 239, 240);
+}
